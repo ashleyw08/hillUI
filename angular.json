@@ -16,7 +16,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/ira-ui",
+            "outputPath": "dist/hillui",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
